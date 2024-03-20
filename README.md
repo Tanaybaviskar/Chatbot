@@ -1,2 +1,2 @@
 # Chatbot
-Its a chatbot named 'jarvis' made by me when i was in school using python. it can perform multiple functions like screen record, tell you the news, google stuff, translate, tell you about the weather, all by voice commands. It also has WolfRamAlpha integrated in it.
+This is a chatbot that i created in high school while i was learning python. It has multiple functions like it can google the things that you ask it to, perform pc functions like shutdown, restart, open notepad etc., it has WolfRamAlpha integrated in it, can tell you jokes, can send whatsapp messages for you, give you the latest updates, screen record, tell you about the weather, perform basic calculations, takes a screenshot etc. all with voice commands. I also made a GUI using PyQt5.
